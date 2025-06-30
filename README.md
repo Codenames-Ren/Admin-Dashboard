@@ -1,2 +1,2 @@
 # Admin-Dashboard
-Repo pertama kali
+Repo admin dashboard
